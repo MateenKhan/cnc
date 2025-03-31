@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.willwinder.GcodeTools">
+    <module_version install_time="1736368969723" last="true" origin="installer" specification_version="2.0.0.2025.01.08.20.39">
+        <file crc="3343120646" name="config/Modules/com-willwinder-GcodeTools.xml"/>
+        <file crc="3021319904" name="modules/com-willwinder-GcodeTools.jar"/>
+    </module_version>
+</module>
