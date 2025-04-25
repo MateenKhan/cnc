@@ -1,17 +1,18 @@
-# download arudion ide
-# add the grbl folder as a library
-# file -> examples -> grbl -> grbl upload
-# connect your uno and upload code
-# open ugsplatform-win\bin\ugsplatform64.exe
-# connect on usb port with 115200 baud
-# pins connections 
+- # download arudion ide
+- # add the grbl folder as a library
+- # file -> examples -> grbl -> grbl upload
+- # connect your uno and upload code
+- # connect on usb port with 115200 baud
+- # best softwares to use 
+- https://software.openbuilds.com/
+- https://sienci.com/gsender/
+- # refer images for connections
+- # pins connections 
 X step, pin 2 X dir, pin 5
 Y step, pin 3 Y dir, pin 6
 Z step, pin 4 Z dir, pin 7
 
-# best softwares to use 
-- https://software.openbuilds.com/
-- https://sienci.com/gsender/
+
 # enjoy!!
 
 default values::
